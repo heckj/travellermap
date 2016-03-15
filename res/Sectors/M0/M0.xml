@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sectors>
+  <Sector>
+    <Y>-1</Y>
+    <X>-4</X>
+    <Name>Spinward Marches</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Spinward Marches.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>-3</X>
+    <Name>Deneb</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Deneb.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>-2</X>
+    <Name>Corridor</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Corridor.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>-1</X>
+    <Name>Vland</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Vland.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>0</X>
+    <Name>Lishun</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Lishun.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>1</X>
+    <Name>Antares</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Antares.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>-1</Y>
+    <X>2</X>
+    <Name>Empty Quarter</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Empty Quarter.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>-4</X>
+    <Name>Trojan Reach</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Trojan Reach.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>-3</X>
+    <Name>Reft</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Reft.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>-2</X>
+    <Name>Gushemege</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Gushemege.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>-1</X>
+    <Name>Dagudashaag</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Dagudashaag.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>0</X>
+    <Name>Core</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Core.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>0</Y>
+    <X>1</X>
+    <Name>Fornast</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Fornast.tab</DataFile>
+  </Sector>
+  <Sector >
+    <Y>0</Y>
+    <X>2</X>
+    <Name>Ley</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Ley.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>-3</X>
+    <Name>Verge</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Verge.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>-2</X>
+    <Name>Ilelish</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Ilelish.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>-1</X>
+    <Name>Zarushagar</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Zarushagar.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>0</X>
+    <Name>Massilia</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Massilia.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>1</X>
+    <Name>Delphi</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Delphi.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>1</Y>
+    <X>2</X>
+    <Name>Glimmerdrift Reaches</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Glimmerdrift.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>2</Y>
+    <X>-2</X>
+    <Name>Reaver's Deep</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Reavers Deep.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>2</Y>
+    <X>-1</X>
+    <Name>Daibei</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Daibei.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>2</Y>
+    <X>0</X>
+    <Name>Diaspora</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Diaspora.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>2</Y>
+    <X>1</X>
+    <Name>Old Expanses</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Old Expanses.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>2</Y>
+    <X>2</X>
+    <Name>Hinterworlds</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Hinterworlds.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>3</Y>
+    <X>-1</X>
+    <Name>Magyar</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Magyar.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>3</Y>
+    <X>0</X>
+    <Name>Solomani Rim</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Solomani Rim.tab</DataFile>
+  </Sector>
+  <Sector>
+    <Y>3</Y>
+    <X>1</X>
+    <Name>Alpha Crucis</Name>
+    <DataFile Era="M0" Type="TabDelimited">M0/Alpha Crucis.tab</DataFile>
+  </Sector>
+</Sectors>
