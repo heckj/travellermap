@@ -71,7 +71,7 @@ namespace Maps
                     sector.Merge(metadata);
                 }
 
-                string milieu = sector.Era ?? sector.DataFile?.Era ?? DEFAULT_MILIEU;
+                string milieu = sector.Milieu ?? sector.DataFile?.Milieu ?? DEFAULT_MILIEU;
                 if (!milieux.ContainsKey(milieu))
                     milieux.Add(milieu, new MilieuMap());
 
@@ -111,7 +111,7 @@ namespace Maps
                         new SectorMetafileEntry(@"~/res/Sectors/Orion OB1/orion.xml", new List<string> { "OrionOB1" } ),
 
                         // OTU - Other Milieu
-                        new SectorMetafileEntry(@"~/res/Sectors/M0/M0.xml", new List<string> {} ),
+                        new SectorMetafileEntry(@"~/res/Sectors/M0/M0.xml", new List<string> { } ),
                         new SectorMetafileEntry(@"~/res/Sectors/M1000/m1000.xml", new List<string> {} ),
 
                         // Non-OTU
