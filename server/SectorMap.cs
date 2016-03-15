@@ -111,6 +111,7 @@ namespace Maps
                         new SectorMetafileEntry(@"~/res/Sectors/Orion OB1/orion.xml", new List<string> { "OrionOB1" } ),
 
                         // OTU - Other Milieu
+                        new SectorMetafileEntry(@"~/res/Sectors/M0/M0.xml", new List<string> {} ),
                         new SectorMetafileEntry(@"~/res/Sectors/M1000/m1000.xml", new List<string> {} ),
 
                         // Non-OTU
@@ -131,7 +132,7 @@ namespace Maps
                 s_instance = null;
             }
         }
-        
+
         // This method supports deserializing of Location instances that reference sectors by name.
         // Throws if the map is not initialized.
         public static Point GetSectorCoordinatesByName(string name)
