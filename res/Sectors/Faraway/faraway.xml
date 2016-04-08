@@ -1194,15 +1194,15 @@
     </Routes>
   </Sector>
   <Sector Tags="Faraway">
-    <X>60</X>
-    <Y>60</Y>
+    <X>160</X>
+    <Y>10</Y>
     <Name Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Varan</Name>
     <DataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson" Type="SecondSurvey">Faraway/Varan.t5</DataFile>
     <MetadataFile Author="Ed &quot;Dalthor Et Magera&quot; Anderson">Faraway/Varan.xml</MetadataFile>
   </Sector>
   <Sector Tags="Apocryphal">
-    <X>70</X>
-    <Y>60</Y>
+    <X>160</X>
+    <Y>20</Y>
     <Name>Precipice</Name>
     <Subsectors>
       <Subsector Index="A">Precipice</Subsector>

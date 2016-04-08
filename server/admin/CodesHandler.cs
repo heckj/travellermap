@@ -106,7 +106,8 @@ namespace Maps.Admin
                               where (sectorName == null || sector.Names[0].Text.StartsWith(sectorName, ignoreCase: true, culture: CultureInfo.InvariantCulture))
                               && (sector.DataFile != null)
                               && (type == null || sector.DataFile.Type == type)
-                              && (!sector.Tags.Contains("ZCR"))
+                              && (!sector.Tags.Contains("ZCR")) // Zhodani Core Route
+                              && (!sector.Tags.Contains("RE")) // Rim Expedition
                               && (!sector.Tags.Contains("meta"))
                               orderby sector.Names[0].Text
                               select sector;

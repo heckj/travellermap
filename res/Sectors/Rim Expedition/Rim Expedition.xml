@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Sectors>
+  <!--
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>0</X>
     <Y>0</Y>
     <Name>Core</Name>
-    <DataFile>Rim Route/Core.sec</DataFile>
+    <DataFile>Rim Expedition/Core.sec</DataFile>
     <Subsectors>
     </Subsectors>
     <Allegiances>
@@ -16,7 +17,7 @@
     <X>0</X>
     <Y>1</Y>
     <Name>Massilia</Name>
-    <DataFile>Rim Route/Massilia.sec</DataFile>
+    <DataFile>Rim Expedition/Massilia.sec</DataFile>
     <Subsectors>
     </Subsectors>
     <Allegiances>
@@ -28,7 +29,7 @@
     <X>1</X>
     <Y>1</Y>
     <Name>Delphi</Name>
-    <DataFile>Rim Route/Delphi.sec</DataFile>
+    <DataFile>Rim Expedition/Delphi.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Kirkankhim</Subsector>
       <Subsector Index="B">Tsent</Subsector>
@@ -52,7 +53,7 @@
     <X>1</X>
     <Y>2</Y>
     <Name>Old Expanses</Name>
-    <DataFile>Rim Route/Old Expanses.sec</DataFile>
+    <DataFile>Rim Expedition/Old Expanses.sec</DataFile>
     <Subsectors>
     </Subsectors>
     <Allegiances>
@@ -65,7 +66,7 @@
     <X>2</X>
     <Y>2</Y>
     <Name>The Hinterworlds</Name>
-    <DataFile>Rim Route/The Hinterworlds.sec</DataFile>
+    <DataFile>Rim Expedition/The Hinterworlds.sec</DataFile>
     <Subsectors>
     </Subsectors>
     <Allegiances>
@@ -81,7 +82,7 @@
     <X>2</X>
     <Y>3</Y>
     <Name>Spica</Name>
-    <DataFile>Rim Route/Spica.sec</DataFile>
+    <DataFile>Rim Expedition/Spica.sec</DataFile>
     <Subsectors>
     </Subsectors>
     <Allegiances>
@@ -95,7 +96,7 @@
     <X>3</X>
     <Y>3</Y>
     <Name>Phlask</Name>
-    <DataFile>Rim Route/Phlask.sec</DataFile>
+    <DataFile>Rim Expedition/Phlask.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aphlaz</Subsector>
       <Subsector Index="B">Biphas</Subsector>
@@ -125,7 +126,7 @@
     <X>3</X>
     <Y>4</Y>
     <Name>Drakken</Name>
-    <DataFile>Rim Route/Drakken.sec</DataFile>
+    <DataFile>Rim Expedition/Drakken.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akke</Subsector>
       <Subsector Index="B">Brakkez</Subsector>
@@ -154,7 +155,7 @@
     <X>4</X>
     <Y>4</Y>
     <Name>Lorspane Drift</Name>
-    <DataFile>Rim Route/Lorspane Drift.sec</DataFile>
+    <DataFile>Rim Expedition/Lorspane Drift.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alore</Subsector>
       <Subsector Index="B">Borspa</Subsector>
@@ -182,7 +183,7 @@
     <X>4</X>
     <Y>5</Y>
     <Name>Darret</Name>
-    <DataFile>Rim Route/Darret.sec</DataFile>
+    <DataFile>Rim Expedition/Darret.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arret</Subsector>
       <Subsector Index="B">Barrec</Subsector>
@@ -205,11 +206,12 @@
       <Allegiance Code="It">Itaurrec Unification</Allegiance>
     </Allegiances>
   </Sector>
+-->
   <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
     <X>5</X>
     <Y>5</Y>
     <Name>Ataurre</Name>
-    <DataFile>Rim Route/Ataurre.sec</DataFile>
+    <DataFile>Rim Expedition/Ataurre.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ataur</Subsector>
       <Subsector Index="B">Baurre</Subsector>
@@ -237,7 +239,7 @@
     <X>5</X>
     <Y>6</Y>
     <Name>Muarne</Name>
-    <DataFile>Rim Route/Muarne.sec</DataFile>
+    <DataFile>Rim Expedition/Muarne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amuar</Subsector>
       <Subsector Index="B">Barnes</Subsector>
@@ -264,7 +266,7 @@
     <X>6</X>
     <Y>6</Y>
     <Name>Lancask</Name>
-    <DataFile>Rim Route/Lancask.sec</DataFile>
+    <DataFile>Rim Expedition/Lancask.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alanca</Subsector>
       <Subsector Index="B">Bancass</Subsector>
@@ -293,7 +295,7 @@
     <X>6</X>
     <Y>7</Y>
     <Name>Suaar</Name>
-    <DataFile>Rim Route/Suaar.sec</DataFile>
+    <DataFile>Rim Expedition/Suaar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ashuan</Subsector>
       <Subsector Index="B">Baanah</Subsector>
@@ -322,7 +324,7 @@
     <X>7</X>
     <Y>7</Y>
     <Name>Tushiile</Name>
-    <DataFile>Rim Route/Tushiile.sec</DataFile>
+    <DataFile>Rim Expedition/Tushiile.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arrshii</Subsector>
       <Subsector Index="B">Bgiili</Subsector>
@@ -350,7 +352,7 @@
     <X>7</X>
     <Y>8</Y>
     <Name>Charbreyne</Name>
-    <DataFile>Rim Route/Charbreyne.sec</DataFile>
+    <DataFile>Rim Expedition/Charbreyne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Achar</Subsector>
       <Subsector Index="B">Breyne</Subsector>
@@ -378,7 +380,7 @@
     <X>8</X>
     <Y>8</Y>
     <Name>Vortaana</Name>
-    <DataFile>Rim Route/Vortaana.sec</DataFile>
+    <DataFile>Rim Expedition/Vortaana.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avorta</Subsector>
       <Subsector Index="B">Bortanna</Subsector>
@@ -405,7 +407,7 @@
     <X>8</X>
     <Y>9</Y>
     <Name>Binaurie</Name>
-    <DataFile>Rim Route/Binaurie.sec</DataFile>
+    <DataFile>Rim Expedition/Binaurie.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Auri</Subsector>
       <Subsector Index="B">Binaur</Subsector>
@@ -432,7 +434,7 @@
     <X>9</X>
     <Y>9</Y>
     <Name>Grevanne</Name>
-    <DataFile>Rim Route/Grevanne.sec</DataFile>
+    <DataFile>Rim Expedition/Grevanne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Annegra</Subsector>
       <Subsector Index="B">Brevanne</Subsector>
@@ -460,7 +462,7 @@
     <X>9</X>
     <Y>10</Y>
     <Name>Femengaal</Name>
-    <DataFile>Rim Route/Femengaal.sec</DataFile>
+    <DataFile>Rim Expedition/Femengaal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afemeng</Subsector>
       <Subsector Index="B">Bemengaal</Subsector>
@@ -488,7 +490,7 @@
     <X>10</X>
     <Y>10</Y>
     <Name>Wobanna</Name>
-    <DataFile>Rim Route/Wobanna.sec</DataFile>
+    <DataFile>Rim Expedition/Wobanna.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awoba</Subsector>
       <Subsector Index="B">Bannaw</Subsector>
@@ -516,7 +518,7 @@
     <X>10</X>
     <Y>11</Y>
     <Name>Poinmaali</Name>
-    <DataFile>Rim Route/Poinmaali.sec</DataFile>
+    <DataFile>Rim Expedition/Poinmaali.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apoinma</Subsector>
       <Subsector Index="B">Baali</Subsector>
@@ -544,7 +546,7 @@
     <X>11</X>
     <Y>11</Y>
     <Name>Hintrab</Name>
-    <DataFile>Rim Route/Hintrab.sec</DataFile>
+    <DataFile>Rim Expedition/Hintrab.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahintra</Subsector>
       <Subsector Index="B">Bhintrab</Subsector>
@@ -571,7 +573,7 @@
     <X>11</X>
     <Y>12</Y>
     <Name>Ebollan</Name>
-    <DataFile>Rim Route/Ebollan.sec</DataFile>
+    <DataFile>Rim Expedition/Ebollan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abolla</Subsector>
       <Subsector Index="B">Beboll</Subsector>
@@ -600,7 +602,7 @@
     <X>12</X>
     <Y>12</Y>
     <Name>Tumluun</Name>
-    <DataFile>Rim Route/Tumluun.sec</DataFile>
+    <DataFile>Rim Expedition/Tumluun.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atumlu</Subsector>
       <Subsector Index="B">Buumkle</Subsector>
@@ -627,7 +629,7 @@
     <X>12</X>
     <Y>13</Y>
     <Name>Yasktier</Name>
-    <DataFile>Rim Route/Yasktier.sec</DataFile>
+    <DataFile>Rim Expedition/Yasktier.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Asktier</Subsector>
       <Subsector Index="B">Bayask</Subsector>
@@ -654,7 +656,7 @@
     <X>13</X>
     <Y>13</Y>
     <Name>Uumpallu</Name>
-    <DataFile>Rim Route/Uumpallu.sec</DataFile>
+    <DataFile>Rim Expedition/Uumpallu.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alluum</Subsector>
       <Subsector Index="B">Buumpall</Subsector>
@@ -681,7 +683,7 @@
     <X>13</X>
     <Y>14</Y>
     <Name>Quavas</Name>
-    <DataFile>Rim Route/Quavas.sec</DataFile>
+    <DataFile>Rim Expedition/Quavas.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alaquava</Subsector>
       <Subsector Index="B">Braquavas</Subsector>
@@ -709,7 +711,7 @@
     <X>14</X>
     <Y>14</Y>
     <Name>Indierri</Name>
-    <DataFile>Rim Route/Indierri.sec</DataFile>
+    <DataFile>Rim Expedition/Indierri.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Andierr</Subsector>
       <Subsector Index="B">Bindie</Subsector>
@@ -736,7 +738,7 @@
     <X>14</X>
     <Y>15</Y>
     <Name>Opak</Name>
-    <DataFile>Rim Route/Opak.sec</DataFile>
+    <DataFile>Rim Expedition/Opak.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aopa</Subsector>
       <Subsector Index="B">Bropak</Subsector>
@@ -764,7 +766,7 @@
     <X>15</X>
     <Y>15</Y>
     <Name>Polluure</Name>
-    <DataFile>Rim Route/Polluure.sec</DataFile>
+    <DataFile>Rim Expedition/Polluure.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apoluur</Subsector>
       <Subsector Index="B">Boluure</Subsector>
@@ -792,7 +794,7 @@
     <X>15</X>
     <Y>16</Y>
     <Name>Avantaal</Name>
-    <DataFile>Rim Route/Avantaal.sec</DataFile>
+    <DataFile>Rim Expedition/Avantaal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avanta</Subsector>
       <Subsector Index="B">Bantaal</Subsector>
@@ -819,7 +821,7 @@
     <X>16</X>
     <Y>16</Y>
     <Name>Stomvutal</Name>
-    <DataFile>Rim Route/Stomvutal.sec</DataFile>
+    <DataFile>Rim Expedition/Stomvutal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avutal</Subsector>
       <Subsector Index="B">Bestom</Subsector>
@@ -846,7 +848,7 @@
     <X>16</X>
     <Y>17</Y>
     <Name>Denvageere</Name>
-    <DataFile>Rim Route/Denvageere.sec</DataFile>
+    <DataFile>Rim Expedition/Denvageere.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adevagee</Subsector>
       <Subsector Index="B">Bevageere</Subsector>
@@ -873,7 +875,7 @@
     <X>17</X>
     <Y>17</Y>
     <Name>Fibrossi</Name>
-    <DataFile>Rim Route/Fibrossi.sec</DataFile>
+    <DataFile>Rim Expedition/Fibrossi.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afibra</Subsector>
       <Subsector Index="B">Brossi</Subsector>
@@ -900,7 +902,7 @@
     <X>17</X>
     <Y>18</Y>
     <Name>Grassale</Name>
-    <DataFile>Rim Route/Grassale.sec</DataFile>
+    <DataFile>Rim Expedition/Grassale.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agrassa</Subsector>
       <Subsector Index="B">Brassale</Subsector>
@@ -927,7 +929,7 @@
     <X>18</X>
     <Y>18</Y>
     <Name>Hytraanie</Name>
-    <DataFile>Rim Route/Hytraanie.sec</DataFile>
+    <DataFile>Rim Expedition/Hytraanie.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahytraan</Subsector>
       <Subsector Index="B">Braanie</Subsector>
@@ -955,7 +957,7 @@
     <X>18</X>
     <Y>19</Y>
     <Name>Jovier</Name>
-    <DataFile>Rim Route/Jovier.sec</DataFile>
+    <DataFile>Rim Expedition/Jovier.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ajovi</Subsector>
       <Subsector Index="B">Bojovier</Subsector>
@@ -982,7 +984,7 @@
     <X>19</X>
     <Y>19</Y>
     <Name>Koba</Name>
-    <DataFile>Rim Route/Koba.sec</DataFile>
+    <DataFile>Rim Expedition/Koba.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ackoba</Subsector>
       <Subsector Index="B">Blekoba</Subsector>
@@ -1009,7 +1011,7 @@
     <X>19</X>
     <Y>20</Y>
     <Name>Lampaanier</Name>
-    <DataFile>Rim Route/Lampaanier.sec</DataFile>
+    <DataFile>Rim Expedition/Lampaanier.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ampaanier</Subsector>
       <Subsector Index="B">Blampaan</Subsector>
@@ -1036,7 +1038,7 @@
     <X>20</X>
     <Y>20</Y>
     <Name>Zoswaan</Name>
-    <DataFile>Rim Route/Zoswaan.sec</DataFile>
+    <DataFile>Rim Expedition/Zoswaan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azoswaa</Subsector>
       <Subsector Index="B">Biswaan</Subsector>
@@ -1065,7 +1067,7 @@
     <X>20</X>
     <Y>21</Y>
     <Name>Xanjier</Name>
-    <DataFile>Rim Route/Xanjier.sec</DataFile>
+    <DataFile>Rim Expedition/Xanjier.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axanji</Subsector>
       <Subsector Index="B">Banjier</Subsector>
@@ -1095,7 +1097,7 @@
     <X>21</X>
     <Y>21</Y>
     <Name>Copaal</Name>
-    <DataFile>Rim Route/Copaal.sec</DataFile>
+    <DataFile>Rim Expedition/Copaal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acopaa</Subsector>
       <Subsector Index="B">Bocapaal</Subsector>
@@ -1122,7 +1124,7 @@
     <X>21</X>
     <Y>22</Y>
     <Name>Vradt</Name>
-    <DataFile>Rim Route/Vradt.sec</DataFile>
+    <DataFile>Rim Expedition/Vradt.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avradt</Subsector>
       <Subsector Index="B">Bhavrad</Subsector>
@@ -1150,7 +1152,7 @@
     <X>22</X>
     <Y>22</Y>
     <Name>Bhuinawol</Name>
-    <DataFile>Rim Route/Bhuinawol.sec</DataFile>
+    <DataFile>Rim Expedition/Bhuinawol.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abhuina</Subsector>
       <Subsector Index="B">Bhuina</Subsector>
@@ -1179,7 +1181,7 @@
     <X>22</X>
     <Y>23</Y>
     <Name>Niri</Name>
-    <DataFile>Rim Route/Niri.sec</DataFile>
+    <DataFile>Rim Expedition/Niri.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aniri</Subsector>
       <Subsector Index="B">Bhutanir</Subsector>
@@ -1207,7 +1209,7 @@
     <X>23</X>
     <Y>23</Y>
     <Name>Mawass</Name>
-    <DataFile>Rim Route/Mawass.sec</DataFile>
+    <DataFile>Rim Expedition/Mawass.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amawass</Subsector>
       <Subsector Index="B">Blumass</Subsector>
@@ -1234,7 +1236,7 @@
     <X>23</X>
     <Y>24</Y>
     <Name>Qwii</Name>
-    <DataFile>Rim Route/Qwii.sec</DataFile>
+    <DataFile>Rim Expedition/Qwii.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aqwii</Subsector>
       <Subsector Index="B">Boqwiil</Subsector>
@@ -1263,7 +1265,7 @@
     <X>24</X>
     <Y>24</Y>
     <Name>Wratwani</Name>
-    <DataFile>Rim Route/Wratwani.sec</DataFile>
+    <DataFile>Rim Expedition/Wratwani.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awrat</Subsector>
       <Subsector Index="B">Batwran</Subsector>
@@ -1291,7 +1293,7 @@
     <X>24</X>
     <Y>25</Y>
     <Name>Eweil</Name>
-    <DataFile>Rim Route/Eweil.sec</DataFile>
+    <DataFile>Rim Expedition/Eweil.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aeweil</Subsector>
       <Subsector Index="B">Bewein</Subsector>
@@ -1315,7 +1317,7 @@
     <X>25</X>
     <Y>25</Y>
     <Name>Rhataq</Name>
-    <DataFile>Rim Route/Rhataq.sec</DataFile>
+    <DataFile>Rim Expedition/Rhataq.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arhata</Subsector>
       <Subsector Index="B">Barhat</Subsector>
@@ -1339,7 +1341,7 @@
     <X>25</X>
     <Y>26</Y>
     <Name>Tutaq</Name>
-    <DataFile>Rim Route/Tutaq.sec</DataFile>
+    <DataFile>Rim Expedition/Tutaq.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atuta</Subsector>
       <Subsector Index="B">Butaqa</Subsector>
@@ -1367,7 +1369,7 @@
     <X>26</X>
     <Y>26</Y>
     <Name>Yabrill</Name>
-    <DataFile>Rim Route/Yabrill.sec</DataFile>
+    <DataFile>Rim Expedition/Yabrill.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ayabri</Subsector>
       <Subsector Index="B">Briyab</Subsector>
@@ -1394,7 +1396,7 @@
     <X>26</X>
     <Y>27</Y>
     <Name>Ufallan</Name>
-    <DataFile>Rim Route/Ufallan.sec</DataFile>
+    <DataFile>Rim Expedition/Ufallan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afalla</Subsector>
       <Subsector Index="B">Bafualla</Subsector>
@@ -1421,7 +1423,7 @@
     <X>27</X>
     <Y>27</Y>
     <Name>Iturokil</Name>
-    <DataFile>Rim Route/Iturokil.sec</DataFile>
+    <DataFile>Rim Expedition/Iturokil.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aituro</Subsector>
       <Subsector Index="B">Biturok</Subsector>
@@ -1449,7 +1451,7 @@
     <X>27</X>
     <Y>28</Y>
     <Name>Oikigeon</Name>
-    <DataFile>Rim Route/Oikigeon.sec</DataFile>
+    <DataFile>Rim Expedition/Oikigeon.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aoikig</Subsector>
       <Subsector Index="B">Bigeon</Subsector>
@@ -1477,7 +1479,7 @@
     <X>28</X>
     <Y>28</Y>
     <Name>Plikohoph</Name>
-    <DataFile>Rim Route/Plikohoph.sec</DataFile>
+    <DataFile>Rim Expedition/Plikohoph.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apliko</Subsector>
       <Subsector Index="B">Bohoph</Subsector>
@@ -1501,7 +1503,7 @@
     <X>28</X>
     <Y>29</Y>
     <Name>Aanjiot</Name>
-    <DataFile>Rim Route/Aanjiot.sec</DataFile>
+    <DataFile>Rim Expedition/Aanjiot.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aanjio</Subsector>
       <Subsector Index="B">Banjiot</Subsector>
@@ -1525,7 +1527,7 @@
     <X>29</X>
     <Y>29</Y>
     <Name>Sedat</Name>
-    <DataFile>Rim Route/Sedat.sec</DataFile>
+    <DataFile>Rim Expedition/Sedat.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aseda</Subsector>
       <Subsector Index="B">Bedata</Subsector>
@@ -1552,7 +1554,7 @@
     <X>29</X>
     <Y>30</Y>
     <Name>Dokliern</Name>
-    <DataFile>Rim Route/Dokliern.sec</DataFile>
+    <DataFile>Rim Expedition/Dokliern.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adokli</Subsector>
       <Subsector Index="B">Bokliern</Subsector>
@@ -1576,7 +1578,7 @@
     <X>30</X>
     <Y>30</Y>
     <Name>Freuwel</Name>
-    <DataFile>Rim Route/Freuwel.sec</DataFile>
+    <DataFile>Rim Expedition/Freuwel.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afreuw</Subsector>
       <Subsector Index="B">Breuwel</Subsector>
@@ -1603,7 +1605,7 @@
     <X>30</X>
     <Y>31</Y>
     <Name>Gredoren</Name>
-    <DataFile>Rim Route/Gredoren.sec</DataFile>
+    <DataFile>Rim Expedition/Gredoren.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agredor</Subsector>
       <Subsector Index="B">Bredoren</Subsector>
@@ -1632,7 +1634,7 @@
     <X>31</X>
     <Y>31</Y>
     <Name>Hawlak</Name>
-    <DataFile>Rim Route/Hawlak.sec</DataFile>
+    <DataFile>Rim Expedition/Hawlak.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahawla</Subsector>
       <Subsector Index="B">Bawlak</Subsector>
@@ -1660,7 +1662,7 @@
     <X>31</X>
     <Y>32</Y>
     <Name>Jdir</Name>
-    <DataFile>Rim Route/Jdir.sec</DataFile>
+    <DataFile>Rim Expedition/Jdir.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aajdir</Subsector>
       <Subsector Index="B">Bejdir</Subsector>
@@ -1684,7 +1686,7 @@
     <X>32</X>
     <Y>32</Y>
     <Name>Kwaaok</Name>
-    <DataFile>Rim Route/Kwaaok.sec</DataFile>
+    <DataFile>Rim Expedition/Kwaaok.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akwaa</Subsector>
       <Subsector Index="B">Baaok</Subsector>
@@ -1708,7 +1710,7 @@
     <X>32</X>
     <Y>33</Y>
     <Name>Lazulu</Name>
-    <DataFile>Rim Route/Lazulu.sec</DataFile>
+    <DataFile>Rim Expedition/Lazulu.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alazu</Subsector>
       <Subsector Index="B">Blazul</Subsector>
@@ -1732,7 +1734,7 @@
     <X>33</X>
     <Y>33</Y>
     <Name>Zlekkenn</Name>
-    <DataFile>Rim Route/Zlekkenn.sec</DataFile>
+    <DataFile>Rim Expedition/Zlekkenn.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azlekk</Subsector>
       <Subsector Index="B">Blekken</Subsector>
@@ -1760,7 +1762,7 @@
     <X>33</X>
     <Y>34</Y>
     <Name>Xobahn</Name>
-    <DataFile>Rim Route/Xobahn.sec</DataFile>
+    <DataFile>Rim Expedition/Xobahn.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axobah</Subsector>
       <Subsector Index="B">Bahnox</Subsector>
@@ -1784,7 +1786,7 @@
     <X>34</X>
     <Y>34</Y>
     <Name>Covoit</Name>
-    <DataFile>Rim Route/Covoit.sec</DataFile>
+    <DataFile>Rim Expedition/Covoit.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acovoi</Subsector>
       <Subsector Index="B">Bovoit</Subsector>
@@ -1812,7 +1814,7 @@
     <X>34</X>
     <Y>35</Y>
     <Name>Venereen</Name>
-    <DataFile>Rim Route/Venereen.sec</DataFile>
+    <DataFile>Rim Expedition/Venereen.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avene</Subsector>
       <Subsector Index="B">Beneree</Subsector>
@@ -1840,7 +1842,7 @@
     <X>35</X>
     <Y>35</Y>
     <Name>Bovoi</Name>
-    <DataFile>Rim Route/Bovoi.sec</DataFile>
+    <DataFile>Rim Expedition/Bovoi.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abovoi</Subsector>
       <Subsector Index="B">Boviren</Subsector>
@@ -1867,7 +1869,7 @@
     <X>35</X>
     <Y>36</Y>
     <Name>Nikrycist</Name>
-    <DataFile>Rim Route/Nikrycist.sec</DataFile>
+    <DataFile>Rim Expedition/Nikrycist.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Anikry</Subsector>
       <Subsector Index="B">Bikryci</Subsector>
@@ -1891,7 +1893,7 @@
     <X>36</X>
     <Y>36</Y>
     <Name>Molinn</Name>
-    <DataFile>Rim Route/Molinn.sec</DataFile>
+    <DataFile>Rim Expedition/Molinn.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amoli</Subsector>
       <Subsector Index="B">Bramol</Subsector>
@@ -1919,7 +1921,7 @@
     <X>36</X>
     <Y>37</Y>
     <Name>Qovar</Name>
-    <DataFile>Rim Route/Qovar.sec</DataFile>
+    <DataFile>Rim Expedition/Qovar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aqovar</Subsector>
       <Subsector Index="B">Baqova</Subsector>
@@ -1948,7 +1950,7 @@
     <X>37</X>
     <Y>37</Y>
     <Name>Wolkorn</Name>
-    <DataFile>Rim Route/Wolkorn.sec</DataFile>
+    <DataFile>Rim Expedition/Wolkorn.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awolk</Subsector>
       <Subsector Index="B">Blkorn</Subsector>
@@ -1975,7 +1977,7 @@
     <X>37</X>
     <Y>38</Y>
     <Name>Eyolovar</Name>
-    <DataFile>Rim Route/Eyolovar.sec</DataFile>
+    <DataFile>Rim Expedition/Eyolovar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aeyolo</Subsector>
       <Subsector Index="B">Bolovar</Subsector>
@@ -2002,7 +2004,7 @@
     <X>38</X>
     <Y>38</Y>
     <Name>Rassis</Name>
-    <DataFile>Rim Route/Rassis.sec</DataFile>
+    <DataFile>Rim Expedition/Rassis.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arassi</Subsector>
       <Subsector Index="B">Brassis</Subsector>
@@ -2026,7 +2028,7 @@
     <X>38</X>
     <Y>39</Y>
     <Name>Togliss</Name>
-    <DataFile>Rim Route/Togliss.sec</DataFile>
+    <DataFile>Rim Expedition/Togliss.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atog</Subsector>
       <Subsector Index="B">Bogliss</Subsector>
@@ -2053,7 +2055,7 @@
     <X>39</X>
     <Y>39</Y>
     <Name>Yovareen</Name>
-    <DataFile>Rim Route/Yovareen.sec</DataFile>
+    <DataFile>Rim Expedition/Yovareen.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Areen</Subsector>
       <Subsector Index="B">Bovarer</Subsector>
@@ -2077,7 +2079,7 @@
     <X>39</X>
     <Y>40</Y>
     <Name>Uberloin</Name>
-    <DataFile>Rim Route/Uberloin.sec</DataFile>
+    <DataFile>Rim Expedition/Uberloin.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Auberl</Subsector>
       <Subsector Index="B">Buberloi</Subsector>
@@ -2104,7 +2106,7 @@
     <X>40</X>
     <Y>40</Y>
     <Name>Indraak</Name>
-    <DataFile>Rim Route/Indraak.sec</DataFile>
+    <DataFile>Rim Expedition/Indraak.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ainga</Subsector>
       <Subsector Index="B">Biongree</Subsector>
@@ -2132,7 +2134,7 @@
     <X>40</X>
     <Y>41</Y>
     <Name>Ondraak</Name>
-    <DataFile>Rim Route/Ondraak.sec</DataFile>
+    <DataFile>Rim Expedition/Ondraak.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aondra</Subsector>
       <Subsector Index="B">Bongazz</Subsector>
@@ -2159,7 +2161,7 @@
     <X>41</X>
     <Y>41</Y>
     <Name>Podraak</Name>
-    <DataFile>Rim Route/Podraak.sec</DataFile>
+    <DataFile>Rim Expedition/Podraak.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apodr</Subsector>
       <Subsector Index="B">Bopodr</Subsector>
@@ -2186,7 +2188,7 @@
     <X>41</X>
     <Y>42</Y>
     <Name>Amkril</Name>
-    <DataFile>Rim Route/Amkril.sec</DataFile>
+    <DataFile>Rim Expedition/Amkril.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aamkrii</Subsector>
       <Subsector Index="B">Bamken</Subsector>
@@ -2213,7 +2215,7 @@
     <X>42</X>
     <Y>42</Y>
     <Name>Sporinne</Name>
-    <DataFile>Rim Route/Sporinne.sec</DataFile>
+    <DataFile>Rim Expedition/Sporinne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aspoor</Subsector>
       <Subsector Index="B">Boorinn</Subsector>
@@ -2240,7 +2242,7 @@
     <X>42</X>
     <Y>43</Y>
     <Name>Dilk</Name>
-    <DataFile>Rim Route/Dilk.sec</DataFile>
+    <DataFile>Rim Expedition/Dilk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adilk</Subsector>
       <Subsector Index="B">Bedilk</Subsector>
@@ -2267,7 +2269,7 @@
     <X>43</X>
     <Y>43</Y>
     <Name>Folprack</Name>
-    <DataFile>Rim Route/Folprack.sec</DataFile>
+    <DataFile>Rim Expedition/Folprack.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afolpra</Subsector>
       <Subsector Index="B">Bolprac</Subsector>
@@ -2295,7 +2297,7 @@
     <X>43</X>
     <Y>44</Y>
     <Name>Gimbaine</Name>
-    <DataFile>Rim Route/Gimbaine.sec</DataFile>
+    <DataFile>Rim Expedition/Gimbaine.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agimba</Subsector>
       <Subsector Index="B">Baine</Subsector>
@@ -2323,7 +2325,7 @@
     <X>44</X>
     <Y>44</Y>
     <Name>Haust</Name>
-    <DataFile>Rim Route/Haust.sec</DataFile>
+    <DataFile>Rim Expedition/Haust.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Austh</Subsector>
       <Subsector Index="B">Bausth</Subsector>
@@ -2350,7 +2352,7 @@
     <X>44</X>
     <Y>45</Y>
     <Name>Julienne</Name>
-    <DataFile>Rim Route/Julienne.sec</DataFile>
+    <DataFile>Rim Expedition/Julienne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ajulie</Subsector>
       <Subsector Index="B">Bulienne</Subsector>
@@ -2377,7 +2379,7 @@
     <X>45</X>
     <Y>45</Y>
     <Name>Kaqvir</Name>
-    <DataFile>Rim Route/Kaqvir.sec</DataFile>
+    <DataFile>Rim Expedition/Kaqvir.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akaqvi</Subsector>
       <Subsector Index="B">Bukavq</Subsector>
@@ -2404,7 +2406,7 @@
     <X>45</X>
     <Y>46</Y>
     <Name>Liennore</Name>
-    <DataFile>Rim Route/Liennore.sec</DataFile>
+    <DataFile>Rim Expedition/Liennore.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alienn</Subsector>
       <Subsector Index="B">Binnore</Subsector>
@@ -2431,7 +2433,7 @@
     <X>46</X>
     <Y>46</Y>
     <Name>Zostromm</Name>
-    <DataFile>Rim Route/Zostromm.sec</DataFile>
+    <DataFile>Rim Expedition/Zostromm.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atromm</Subsector>
       <Subsector Index="B">Bazos</Subsector>
@@ -2459,7 +2461,7 @@
     <X>46</X>
     <Y>47</Y>
     <Name>Xumma</Name>
-    <DataFile>Rim Route/Xumma.sec</DataFile>
+    <DataFile>Rim Expedition/Xumma.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axuum</Subsector>
       <Subsector Index="B">Buxuumm</Subsector>
@@ -2486,7 +2488,7 @@
     <X>47</X>
     <Y>47</Y>
     <Name>Cimatrax</Name>
-    <DataFile>Rim Route/Cimatrax.sec</DataFile>
+    <DataFile>Rim Expedition/Cimatrax.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atraxa</Subsector>
       <Subsector Index="B">Bimatra</Subsector>
@@ -2513,7 +2515,7 @@
     <X>47</X>
     <Y>48</Y>
     <Name>Vlort</Name>
-    <DataFile>Rim Route/Vlort.sec</DataFile>
+    <DataFile>Rim Expedition/Vlort.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alorta</Subsector>
       <Subsector Index="B">Blorn</Subsector>
@@ -2540,7 +2542,7 @@
     <X>48</X>
     <Y>48</Y>
     <Name>Bodmairin</Name>
-    <DataFile>Rim Route/Bodmairin.sec</DataFile>
+    <DataFile>Rim Expedition/Bodmairin.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Airin</Subsector>
       <Subsector Index="B">Bodmair</Subsector>
@@ -2567,7 +2569,7 @@
     <X>48</X>
     <Y>49</Y>
     <Name>Nennma</Name>
-    <DataFile>Rim Route/Nennma.sec</DataFile>
+    <DataFile>Rim Expedition/Nennma.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Anenn</Subsector>
       <Subsector Index="B">Bennma</Subsector>
@@ -2594,7 +2596,7 @@
     <X>49</X>
     <Y>49</Y>
     <Name>Milhuund</Name>
-    <DataFile>Rim Route/Milhuund.sec</DataFile>
+    <DataFile>Rim Expedition/Milhuund.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amilh</Subsector>
       <Subsector Index="B">Bilhuun</Subsector>
@@ -2621,7 +2623,7 @@
     <X>49</X>
     <Y>50</Y>
     <Name>Qoplar</Name>
-    <DataFile>Rim Route/Qoplar.sec</DataFile>
+    <DataFile>Rim Expedition/Qoplar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aqopla</Subsector>
       <Subsector Index="B">Baqopl</Subsector>
@@ -2649,7 +2651,7 @@
     <X>50</X>
     <Y>50</Y>
     <Name>Wakkar</Name>
-    <DataFile>Rim Route/Wakkar.sec</DataFile>
+    <DataFile>Rim Expedition/Wakkar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akkar</Subsector>
       <Subsector Index="B">Bawakk</Subsector>
@@ -2678,7 +2680,7 @@
     <X>50</X>
     <Y>51</Y>
     <Name>Emlaugh</Name>
-    <DataFile>Rim Route/Emlaugh.sec</DataFile>
+    <DataFile>Rim Expedition/Emlaugh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aemlaug</Subsector>
       <Subsector Index="B">Bemlau</Subsector>
@@ -2705,7 +2707,7 @@
     <X>51</X>
     <Y>51</Y>
     <Name>Remuumar</Name>
-    <DataFile>Rim Route/Remuumar.sec</DataFile>
+    <DataFile>Rim Expedition/Remuumar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aremuu</Subsector>
       <Subsector Index="B">Bemuuma</Subsector>
@@ -2732,7 +2734,7 @@
     <X>51</X>
     <Y>52</Y>
     <Name>Teinman</Name>
-    <DataFile>Rim Route/Teinman.sec</DataFile>
+    <DataFile>Rim Expedition/Teinman.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atein</Subsector>
       <Subsector Index="B">Beinman</Subsector>
@@ -2759,7 +2761,7 @@
     <X>52</X>
     <Y>52</Y>
     <Name>Yok</Name>
-    <DataFile>Rim Route/Yok.sec</DataFile>
+    <DataFile>Rim Expedition/Yok.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aayok</Subsector>
       <Subsector Index="B">Bicyok</Subsector>
@@ -2786,7 +2788,7 @@
     <X>52</X>
     <Y>53</Y>
     <Name>Utgresh</Name>
-    <DataFile>Rim Route/Utgresh.sec</DataFile>
+    <DataFile>Rim Expedition/Utgresh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Autgre</Subsector>
       <Subsector Index="B">Butgra</Subsector>
@@ -2815,7 +2817,7 @@
     <X>53</X>
     <Y>53</Y>
     <Name>Ingresh</Name>
-    <DataFile>Rim Route/Ingresh.sec</DataFile>
+    <DataFile>Rim Expedition/Ingresh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aingre</Subsector>
       <Subsector Index="B">Bingres</Subsector>
@@ -2843,7 +2845,7 @@
     <X>53</X>
     <Y>54</Y>
     <Name>Ovswar</Name>
-    <DataFile>Rim Route/Ovswar.sec</DataFile>
+    <DataFile>Rim Expedition/Ovswar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aovswa</Subsector>
       <Subsector Index="B">Bovswar</Subsector>
@@ -2870,7 +2872,7 @@
     <X>54</X>
     <Y>54</Y>
     <Name>Pevrinirie</Name>
-    <DataFile>Rim Route/Pevrinirie.sec</DataFile>
+    <DataFile>Rim Expedition/Pevrinirie.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apevri</Subsector>
       <Subsector Index="B">Bevrini</Subsector>
@@ -2899,7 +2901,7 @@
     <X>54</X>
     <Y>55</Y>
     <Name>Axandres</Name>
-    <DataFile>Rim Route/Axandres.sec</DataFile>
+    <DataFile>Rim Expedition/Axandres.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axandra</Subsector>
       <Subsector Index="B">Bandres</Subsector>
@@ -2927,7 +2929,7 @@
     <X>55</X>
     <Y>55</Y>
     <Name>Sokabor</Name>
-    <DataFile>Rim Route/Sokabor.sec</DataFile>
+    <DataFile>Rim Expedition/Sokabor.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Asokab</Subsector>
       <Subsector Index="B">Bokabor</Subsector>
@@ -2955,7 +2957,7 @@
     <X>55</X>
     <Y>56</Y>
     <Name>Dxan</Name>
-    <DataFile>Rim Route/Dxan.sec</DataFile>
+    <DataFile>Rim Expedition/Dxan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adaxana</Subsector>
       <Subsector Index="B">Bexan</Subsector>
@@ -2984,7 +2986,7 @@
     <X>56</X>
     <Y>56</Y>
     <Name>Fahaadui</Name>
-    <DataFile>Rim Route/Fahaadui.sec</DataFile>
+    <DataFile>Rim Expedition/Fahaadui.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahaad</Subsector>
       <Subsector Index="B">Badui</Subsector>
@@ -3011,7 +3013,7 @@
     <X>56</X>
     <Y>57</Y>
     <Name>Gikmur</Name>
-    <DataFile>Rim Route/Gikmur.sec</DataFile>
+    <DataFile>Rim Expedition/Gikmur.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agikmur</Subsector>
       <Subsector Index="B">Bikmur</Subsector>
@@ -3038,7 +3040,7 @@
     <X>57</X>
     <Y>57</Y>
     <Name>Hiplinni</Name>
-    <DataFile>Rim Route/Hiplinni.sec</DataFile>
+    <DataFile>Rim Expedition/Hiplinni.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alinni</Subsector>
       <Subsector Index="B">Bihipl</Subsector>
@@ -3065,7 +3067,7 @@
     <X>57</X>
     <Y>58</Y>
     <Name>Jitginni</Name>
-    <DataFile>Rim Route/Jitginni.sec</DataFile>
+    <DataFile>Rim Expedition/Jitginni.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ajit</Subsector>
       <Subsector Index="B">Bitginni</Subsector>
@@ -3092,7 +3094,7 @@
     <X>58</X>
     <Y>58</Y>
     <Name>Kidwar</Name>
-    <DataFile>Rim Route/Kidwar.sec</DataFile>
+    <DataFile>Rim Expedition/Kidwar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akid</Subsector>
       <Subsector Index="B">Bidwar</Subsector>
@@ -3119,7 +3121,7 @@
     <X>58</X>
     <Y>59</Y>
     <Name>Limcozal</Name>
-    <DataFile>Rim Route/Limcozal.sec</DataFile>
+    <DataFile>Rim Expedition/Limcozal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alimco</Subsector>
       <Subsector Index="B">Bimcozal</Subsector>
@@ -3147,7 +3149,7 @@
     <X>59</X>
     <Y>59</Y>
     <Name>Ziorr</Name>
-    <DataFile>Rim Route/Ziorr.sec</DataFile>
+    <DataFile>Rim Expedition/Ziorr.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azio</Subsector>
       <Subsector Index="B">Bzior</Subsector>
@@ -3174,7 +3176,7 @@
     <X>59</X>
     <Y>60</Y>
     <Name>Xiist</Name>
-    <DataFile>Rim Route/Xiist.sec</DataFile>
+    <DataFile>Rim Expedition/Xiist.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axiis</Subsector>
       <Subsector Index="B">Biist</Subsector>
@@ -3198,7 +3200,7 @@
     <X>60</X>
     <Y>60</Y>
     <Name>Clilorne</Name>
-    <DataFile>Rim Route/Clilorne.sec</DataFile>
+    <DataFile>Rim Expedition/Clilorne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aclilo</Subsector>
       <Subsector Index="B">Blilorne</Subsector>
@@ -3222,7 +3224,7 @@
     <X>60</X>
     <Y>61</Y>
     <Name>Viopol</Name>
-    <DataFile>Rim Route/Viopol.sec</DataFile>
+    <DataFile>Rim Expedition/Viopol.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aviopo</Subsector>
       <Subsector Index="B">Bepoli</Subsector>
@@ -3249,7 +3251,7 @@
     <X>61</X>
     <Y>61</Y>
     <Name>Beesee</Name>
-    <DataFile>Rim Route/Beesee.sec</DataFile>
+    <DataFile>Rim Expedition/Beesee.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abees</Subsector>
       <Subsector Index="B">Beeceen</Subsector>
@@ -3276,7 +3278,7 @@
     <X>61</X>
     <Y>62</Y>
     <Name>Neecheck</Name>
-    <DataFile>Rim Route/Neecheck.sec</DataFile>
+    <DataFile>Rim Expedition/Neecheck.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aneech</Subsector>
       <Subsector Index="B">Beechec</Subsector>
@@ -3303,7 +3305,7 @@
     <X>62</X>
     <Y>62</Y>
     <Name>Moeentra</Name>
-    <DataFile>Rim Route/Moeentra.sec</DataFile>
+    <DataFile>Rim Expedition/Moeentra.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amoee</Subsector>
       <Subsector Index="B">Beentra</Subsector>
@@ -3330,7 +3332,7 @@
     <X>62</X>
     <Y>63</Y>
     <Name>Qlest</Name>
-    <DataFile>Rim Route/Qlest.sec</DataFile>
+    <DataFile>Rim Expedition/Qlest.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aqlest</Subsector>
       <Subsector Index="B">Baqest</Subsector>
@@ -3354,7 +3356,7 @@
     <X>63</X>
     <Y>63</Y>
     <Name>Whukeryl</Name>
-    <DataFile>Rim Route/Whukeryl.sec</DataFile>
+    <DataFile>Rim Expedition/Whukeryl.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awhok</Subsector>
       <Subsector Index="B">Bukery</Subsector>
@@ -3378,7 +3380,7 @@
     <X>63</X>
     <Y>64</Y>
     <Name>Eggugul</Name>
-    <DataFile>Rim Route/Eggugul.sec</DataFile>
+    <DataFile>Rim Expedition/Eggugul.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aggug</Subsector>
       <Subsector Index="B">Beggug</Subsector>
@@ -3407,7 +3409,7 @@
     <X>64</X>
     <Y>64</Y>
     <Name>Rovik</Name>
-    <DataFile>Rim Route/Rovik.sec</DataFile>
+    <DataFile>Rim Expedition/Rovik.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arov</Subsector>
       <Subsector Index="B">Barovik</Subsector>
@@ -3435,7 +3437,7 @@
     <X>64</X>
     <Y>65</Y>
     <Name>Torogun</Name>
-    <DataFile>Rim Route/Torogun.sec</DataFile>
+    <DataFile>Rim Expedition/Torogun.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atoro</Subsector>
       <Subsector Index="B">Bogun</Subsector>
@@ -3464,7 +3466,7 @@
     <X>65</X>
     <Y>65</Y>
     <Name>Yurvik</Name>
-    <DataFile>Rim Route/Yurvik.sec</DataFile>
+    <DataFile>Rim Expedition/Yurvik.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ayur</Subsector>
       <Subsector Index="B">Burvik</Subsector>
@@ -3491,7 +3493,7 @@
     <X>65</X>
     <Y>66</Y>
     <Name>Uuunn</Name>
-    <DataFile>Rim Route/Uuunn.sec</DataFile>
+    <DataFile>Rim Expedition/Uuunn.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aauuunn</Subsector>
       <Subsector Index="B">Beeuuunn</Subsector>
@@ -3518,7 +3520,7 @@
     <X>66</X>
     <Y>66</Y>
     <Name>Iknor</Name>
-    <DataFile>Rim Route/Iknor.sec</DataFile>
+    <DataFile>Rim Expedition/Iknor.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aikno</Subsector>
       <Subsector Index="B">Beiknor</Subsector>
@@ -3547,7 +3549,7 @@
     <X>66</X>
     <Y>67</Y>
     <Name>Ocpriine</Name>
-    <DataFile>Rim Route/Ocpriine.sec</DataFile>
+    <DataFile>Rim Expedition/Ocpriine.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acprii</Subsector>
       <Subsector Index="B">Bocprii</Subsector>
@@ -3571,7 +3573,7 @@
     <X>67</X>
     <Y>67</Y>
     <Name>Puktrall</Name>
-    <DataFile>Rim Route/Puktrall.sec</DataFile>
+    <DataFile>Rim Expedition/Puktrall.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apukt</Subsector>
       <Subsector Index="B">Buktrall</Subsector>
@@ -3599,7 +3601,7 @@
     <X>67</X>
     <Y>68</Y>
     <Name>Ambrook</Name>
-    <DataFile>Rim Route/Ambrook.sec</DataFile>
+    <DataFile>Rim Expedition/Ambrook.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ambroo</Subsector>
       <Subsector Index="B">Brool</Subsector>
@@ -3626,7 +3628,7 @@
     <X>68</X>
     <Y>68</Y>
     <Name>Siuk</Name>
-    <DataFile>Rim Route/Siuk.sec</DataFile>
+    <DataFile>Rim Expedition/Siuk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Asiu</Subsector>
       <Subsector Index="B">Basiuk</Subsector>
@@ -3654,7 +3656,7 @@
     <X>68</X>
     <Y>69</Y>
     <Name>Dumaal</Name>
-    <DataFile>Rim Route/Dumaal.sec</DataFile>
+    <DataFile>Rim Expedition/Dumaal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aldumma</Subsector>
       <Subsector Index="B">Balldum</Subsector>
@@ -3683,7 +3685,7 @@
     <X>69</X>
     <Y>69</Y>
     <Name>Fupolo</Name>
-    <DataFile>Rim Route/Fupolo.sec</DataFile>
+    <DataFile>Rim Expedition/Fupolo.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afupol</Subsector>
       <Subsector Index="B">Bufolo</Subsector>
@@ -3710,7 +3712,7 @@
     <X>69</X>
     <Y>70</Y>
     <Name>Gtana</Name>
-    <DataFile>Rim Route/Gtana.sec</DataFile>
+    <DataFile>Rim Expedition/Gtana.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agtab</Subsector>
       <Subsector Index="B">Batag</Subsector>
@@ -3734,7 +3736,7 @@
     <X>70</X>
     <Y>70</Y>
     <Name>Htryl</Name>
-    <DataFile>Rim Route/Htryl.sec</DataFile>
+    <DataFile>Rim Expedition/Htryl.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aryl</Subsector>
       <Subsector Index="B">Bahtry</Subsector>
@@ -3761,7 +3763,7 @@
     <X>70</X>
     <Y>71</Y>
     <Name>Jubraal</Name>
-    <DataFile>Rim Route/Jubraal.sec</DataFile>
+    <DataFile>Rim Expedition/Jubraal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ajuub</Subsector>
       <Subsector Index="B">Braal</Subsector>
@@ -3788,7 +3790,7 @@
     <X>71</X>
     <Y>71</Y>
     <Name>Kuberan</Name>
-    <DataFile>Rim Route/Kuberan.sec</DataFile>
+    <DataFile>Rim Expedition/Kuberan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aburan</Subsector>
       <Subsector Index="B">Buranus</Subsector>
@@ -3815,7 +3817,7 @@
     <X>71</X>
     <Y>72</Y>
     <Name>Limax</Name>
-    <DataFile>Rim Route/Limax.sec</DataFile>
+    <DataFile>Rim Expedition/Limax.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alima</Subsector>
       <Subsector Index="B">Blimax</Subsector>
@@ -3843,7 +3845,7 @@
     <X>72</X>
     <Y>72</Y>
     <Name>Zane</Name>
-    <DataFile>Rim Route/Zane.sec</DataFile>
+    <DataFile>Rim Expedition/Zane.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azane</Subsector>
       <Subsector Index="B">Bazanne</Subsector>
@@ -3867,7 +3869,7 @@
     <X>72</X>
     <Y>73</Y>
     <Name>Xiver</Name>
-    <DataFile>Rim Route/Xiver.sec</DataFile>
+    <DataFile>Rim Expedition/Xiver.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axive</Subsector>
       <Subsector Index="B">Baxiver</Subsector>
@@ -3894,7 +3896,7 @@
     <X>73</X>
     <Y>73</Y>
     <Name>Cuulromi</Name>
-    <DataFile>Rim Route/Cuulromi.sec</DataFile>
+    <DataFile>Rim Expedition/Cuulromi.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acuul</Subsector>
       <Subsector Index="B">Buulrom</Subsector>
@@ -3918,7 +3920,7 @@
     <X>73</X>
     <Y>74</Y>
     <Name>Vekker</Name>
-    <DataFile>Rim Route/Vekker.sec</DataFile>
+    <DataFile>Rim Expedition/Vekker.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avekk</Subsector>
       <Subsector Index="B">Beavva</Subsector>
@@ -3942,7 +3944,7 @@
     <X>74</X>
     <Y>74</Y>
     <Name>Bomarien</Name>
-    <DataFile>Rim Route/Bomarien.sec</DataFile>
+    <DataFile>Rim Expedition/Bomarien.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abomar</Subsector>
       <Subsector Index="B">Bomari</Subsector>
@@ -3966,7 +3968,7 @@
     <X>74</X>
     <Y>75</Y>
     <Name>Nujvier</Name>
-    <DataFile>Rim Route/Nujvier.sec</DataFile>
+    <DataFile>Rim Expedition/Nujvier.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Anuj</Subsector>
       <Subsector Index="B">Bavier</Subsector>
@@ -3990,7 +3992,7 @@
     <X>75</X>
     <Y>75</Y>
     <Name>Monicruull</Name>
-    <DataFile>Rim Route/Monicruull.sec</DataFile>
+    <DataFile>Rim Expedition/Monicruull.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amonic</Subsector>
       <Subsector Index="B">Bonicr</Subsector>
@@ -4014,7 +4016,7 @@
     <X>75</X>
     <Y>76</Y>
     <Name>Quiqquaq</Name>
-    <DataFile>Rim Route/Quiqquaq.sec</DataFile>
+    <DataFile>Rim Expedition/Quiqquaq.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aquiq</Subsector>
       <Subsector Index="B">Buiqua</Subsector>
@@ -4038,7 +4040,7 @@
     <X>76</X>
     <Y>76</Y>
     <Name>Wuibraal</Name>
-    <DataFile>Rim Route/Wuibraal.sec</DataFile>
+    <DataFile>Rim Expedition/Wuibraal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awuib</Subsector>
       <Subsector Index="B">Braal</Subsector>
@@ -4062,7 +4064,7 @@
     <X>76</X>
     <Y>77</Y>
     <Name>Elmakor</Name>
-    <DataFile>Rim Route/Elmakor.sec</DataFile>
+    <DataFile>Rim Expedition/Elmakor.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aelma</Subsector>
       <Subsector Index="B">Belmak</Subsector>
@@ -4089,7 +4091,7 @@
     <X>77</X>
     <Y>77</Y>
     <Name>Rukluust</Name>
-    <DataFile>Rim Route/Rukluust.sec</DataFile>
+    <DataFile>Rim Expedition/Rukluust.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aruk</Subsector>
       <Subsector Index="B">Bukluu</Subsector>
@@ -4113,7 +4115,7 @@
     <X>77</X>
     <Y>78</Y>
     <Name>Tanklik</Name>
-    <DataFile>Rim Route/Tanklik.sec</DataFile>
+    <DataFile>Rim Expedition/Tanklik.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atank</Subsector>
       <Subsector Index="B">Bankli</Subsector>
@@ -4137,7 +4139,7 @@
     <X>78</X>
     <Y>78</Y>
     <Name>Yugdorra</Name>
-    <DataFile>Rim Route/Yugdorra.sec</DataFile>
+    <DataFile>Rim Expedition/Yugdorra.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ayug</Subsector>
       <Subsector Index="B">Buyug</Subsector>
@@ -4161,7 +4163,7 @@
     <X>78</X>
     <Y>79</Y>
     <Name>Uttlo</Name>
-    <DataFile>Rim Route/Uttlo.sec</DataFile>
+    <DataFile>Rim Expedition/Uttlo.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abatt</Subsector>
       <Subsector Index="B">Battlok</Subsector>
@@ -4188,7 +4190,7 @@
     <X>79</X>
     <Y>79</Y>
     <Name>Igekker</Name>
-    <DataFile>Rim Route/Igekker.sec</DataFile>
+    <DataFile>Rim Expedition/Igekker.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agekk</Subsector>
       <Subsector Index="B">Bigekker</Subsector>
@@ -4215,7 +4217,7 @@
     <X>79</X>
     <Y>80</Y>
     <Name>Owasso</Name>
-    <DataFile>Rim Route/Owasso.sec</DataFile>
+    <DataFile>Rim Expedition/Owasso.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awass</Subsector>
       <Subsector Index="B">Bosso</Subsector>
@@ -4239,7 +4241,7 @@
     <X>80</X>
     <Y>80</Y>
     <Name>Puuahdesh</Name>
-    <DataFile>Rim Route/Puuahdesh.sec</DataFile>
+    <DataFile>Rim Expedition/Puuahdesh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahdes</Subsector>
       <Subsector Index="B">Buuahd</Subsector>
@@ -4263,7 +4265,7 @@
     <X>80</X>
     <Y>81</Y>
     <Name>Anklekk</Name>
-    <DataFile>Rim Route/Anklekk.sec</DataFile>
+    <DataFile>Rim Expedition/Anklekk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Anklek</Subsector>
       <Subsector Index="B">Bankle</Subsector>
@@ -4287,7 +4289,7 @@
     <X>81</X>
     <Y>81</Y>
     <Name>Skoreell</Name>
-    <DataFile>Rim Route/Skoreell.sec</DataFile>
+    <DataFile>Rim Expedition/Skoreell.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Askore</Subsector>
       <Subsector Index="B">Boreell</Subsector>
@@ -4311,7 +4313,7 @@
     <X>81</X>
     <Y>82</Y>
     <Name>Dwennekk</Name>
-    <DataFile>Rim Route/Dwennekk.sec</DataFile>
+    <DataFile>Rim Expedition/Dwennekk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adwenn</Subsector>
       <Subsector Index="B">Badwenn</Subsector>
@@ -4335,7 +4337,7 @@
     <X>82</X>
     <Y>82</Y>
     <Name>Flumlann</Name>
-    <DataFile>Rim Route/Flumlann.sec</DataFile>
+    <DataFile>Rim Expedition/Flumlann.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aflum</Subsector>
       <Subsector Index="B">Balann</Subsector>
@@ -4362,7 +4364,7 @@
     <X>82</X>
     <Y>83</Y>
     <Name>Guttlo</Name>
-    <DataFile>Rim Route/Guttlo.sec</DataFile>
+    <DataFile>Rim Expedition/Guttlo.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agut</Subsector>
       <Subsector Index="B">Butlo</Subsector>
@@ -4386,7 +4388,7 @@
     <X>83</X>
     <Y>83</Y>
     <Name>Hiyukrill</Name>
-    <DataFile>Rim Route/Hiyukrill.sec</DataFile>
+    <DataFile>Rim Expedition/Hiyukrill.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahiyuk</Subsector>
       <Subsector Index="B">Bayuk</Subsector>
@@ -4413,7 +4415,7 @@
     <X>83</X>
     <Y>84</Y>
     <Name>Jaanniss</Name>
-    <DataFile>Rim Route/Jaanniss.sec</DataFile>
+    <DataFile>Rim Expedition/Jaanniss.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Annis</Subsector>
       <Subsector Index="B">Bajann</Subsector>
@@ -4442,7 +4444,7 @@
     <X>84</X>
     <Y>84</Y>
     <Name>Krennekk</Name>
-    <DataFile>Rim Route/Krennekk.sec</DataFile>
+    <DataFile>Rim Expedition/Krennekk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akrenn</Subsector>
       <Subsector Index="B">Bennekk</Subsector>
@@ -4466,7 +4468,7 @@
     <X>84</X>
     <Y>85</Y>
     <Name>Linbour</Name>
-    <DataFile>Rim Route/Linbour.sec</DataFile>
+    <DataFile>Rim Expedition/Linbour.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alinb</Subsector>
       <Subsector Index="B">Balbour</Subsector>
@@ -4490,7 +4492,7 @@
     <X>85</X>
     <Y>85</Y>
     <Name>Zakenbour</Name>
-    <DataFile>Rim Route/Zakenbour.sec</DataFile>
+    <DataFile>Rim Expedition/Zakenbour.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azaken</Subsector>
       <Subsector Index="B">Benbour</Subsector>
@@ -4514,7 +4516,7 @@
     <X>85</X>
     <Y>86</Y>
     <Name>Xil</Name>
-    <DataFile>Rim Route/Xil.sec</DataFile>
+    <DataFile>Rim Expedition/Xil.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aaxil</Subsector>
       <Subsector Index="B">Buxil</Subsector>
@@ -4538,7 +4540,7 @@
     <X>86</X>
     <Y>86</Y>
     <Name>Chendar</Name>
-    <DataFile>Rim Route/Chendar.sec</DataFile>
+    <DataFile>Rim Expedition/Chendar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Achen</Subsector>
       <Subsector Index="B">Bendar</Subsector>
@@ -4562,7 +4564,7 @@
     <X>86</X>
     <Y>87</Y>
     <Name>Vokral</Name>
-    <DataFile>Rim Route/Vokral.sec</DataFile>
+    <DataFile>Rim Expedition/Vokral.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avok</Subsector>
       <Subsector Index="B">Bokral</Subsector>
@@ -4586,7 +4588,7 @@
     <X>87</X>
     <Y>87</Y>
     <Name>Banis</Name>
-    <DataFile>Rim Route/Banis.sec</DataFile>
+    <DataFile>Rim Expedition/Banis.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aaniss</Subsector>
       <Subsector Index="B">Bani</Subsector>
@@ -4610,7 +4612,7 @@
     <X>87</X>
     <Y>88</Y>
     <Name>Nuuvaal</Name>
-    <DataFile>Rim Route/Nuuvaal.sec</DataFile>
+    <DataFile>Rim Expedition/Nuuvaal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aavaal</Subsector>
       <Subsector Index="B">Buuvaan</Subsector>
@@ -4637,7 +4639,7 @@
     <X>88</X>
     <Y>88</Y>
     <Name>Muertos</Name>
-    <DataFile>Rim Route/Muertos.sec</DataFile>
+    <DataFile>Rim Expedition/Muertos.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amuer</Subsector>
       <Subsector Index="B">Bertos</Subsector>
@@ -4664,7 +4666,7 @@
     <X>88</X>
     <Y>89</Y>
     <Name>Quavos</Name>
-    <DataFile>Rim Route/Quavos.sec</DataFile>
+    <DataFile>Rim Expedition/Quavos.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aqav</Subsector>
       <Subsector Index="B">Baqan</Subsector>
@@ -4691,7 +4693,7 @@
     <X>89</X>
     <Y>89</Y>
     <Name>Winkrill</Name>
-    <DataFile>Rim Route/Winkrill.sec</DataFile>
+    <DataFile>Rim Expedition/Winkrill.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Awin</Subsector>
       <Subsector Index="B">Baween</Subsector>
@@ -4715,7 +4717,7 @@
     <X>89</X>
     <Y>90</Y>
     <Name>Ematal</Name>
-    <DataFile>Rim Route/Ematal.sec</DataFile>
+    <DataFile>Rim Expedition/Ematal.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Attat</Subsector>
       <Subsector Index="B">Bemita</Subsector>
@@ -4739,7 +4741,7 @@
     <X>90</X>
     <Y>90</Y>
     <Name>Revos</Name>
-    <DataFile>Rim Route/Revos.sec</DataFile>
+    <DataFile>Rim Expedition/Revos.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Avos</Subsector>
       <Subsector Index="B">Brevol</Subsector>
@@ -4763,7 +4765,7 @@
     <X>90</X>
     <Y>91</Y>
     <Name>Triklien</Name>
-    <DataFile>Rim Route/Triklien.sec</DataFile>
+    <DataFile>Rim Expedition/Triklien.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atrik</Subsector>
       <Subsector Index="B">Biklien</Subsector>
@@ -4787,7 +4789,7 @@
     <X>91</X>
     <Y>91</Y>
     <Name>Yakli</Name>
-    <DataFile>Rim Route/Yakli.sec</DataFile>
+    <DataFile>Rim Expedition/Yakli.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akli</Subsector>
       <Subsector Index="B">Baykli</Subsector>
@@ -4811,7 +4813,7 @@
     <X>91</X>
     <Y>92</Y>
     <Name>Umpapa</Name>
-    <DataFile>Rim Route/Umpapa.sec</DataFile>
+    <DataFile>Rim Expedition/Umpapa.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Apap</Subsector>
       <Subsector Index="B">Baum</Subsector>
@@ -4835,7 +4837,7 @@
     <X>92</X>
     <Y>92</Y>
     <Name>Ingiri</Name>
-    <DataFile>Rim Route/Ingiri.sec</DataFile>
+    <DataFile>Rim Expedition/Ingiri.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agir</Subsector>
       <Subsector Index="B">Bigirn</Subsector>
@@ -4859,7 +4861,7 @@
     <X>92</X>
     <Y>93</Y>
     <Name>Ongoro</Name>
-    <DataFile>Rim Route/Ongoro.sec</DataFile>
+    <DataFile>Rim Expedition/Ongoro.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agoro</Subsector>
       <Subsector Index="B">Bog</Subsector>
@@ -4883,7 +4885,7 @@
     <X>93</X>
     <Y>93</Y>
     <Name>Pania</Name>
-    <DataFile>Rim Route/Pania.sec</DataFile>
+    <DataFile>Rim Expedition/Pania.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ania</Subsector>
       <Subsector Index="B">Bapan</Subsector>
@@ -4907,7 +4909,7 @@
     <X>93</X>
     <Y>94</Y>
     <Name>Anthkuur</Name>
-    <DataFile>Rim Route/Anthkuur.sec</DataFile>
+    <DataFile>Rim Expedition/Anthkuur.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akuur</Subsector>
       <Subsector Index="B">Banthk</Subsector>
@@ -4931,7 +4933,7 @@
     <X>94</X>
     <Y>94</Y>
     <Name>Sathra</Name>
-    <DataFile>Rim Route/Sathra.sec</DataFile>
+    <DataFile>Rim Expedition/Sathra.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Asath</Subsector>
       <Subsector Index="B">Bathra</Subsector>
@@ -4955,7 +4957,7 @@
     <X>94</X>
     <Y>95</Y>
     <Name>Dothaan</Name>
-    <DataFile>Rim Route/Dothaan.sec</DataFile>
+    <DataFile>Rim Expedition/Dothaan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Athaan</Subsector>
       <Subsector Index="B">Botha</Subsector>
@@ -4979,7 +4981,7 @@
     <X>95</X>
     <Y>95</Y>
     <Name>Foth</Name>
-    <DataFile>Rim Route/Foth.sec</DataFile>
+    <DataFile>Rim Expedition/Foth.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aazz</Subsector>
       <Subsector Index="B">Bouth</Subsector>
@@ -5003,7 +5005,7 @@
     <X>95</X>
     <Y>96</Y>
     <Name>Grenoth</Name>
-    <DataFile>Rim Route/Grenoth.sec</DataFile>
+    <DataFile>Rim Expedition/Grenoth.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agree</Subsector>
       <Subsector Index="B">Benop</Subsector>
@@ -5027,7 +5029,7 @@
     <X>96</X>
     <Y>96</Y>
     <Name>Hatholk</Name>
-    <DataFile>Rim Route/Hatholk.sec</DataFile>
+    <DataFile>Rim Expedition/Hatholk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atholk</Subsector>
       <Subsector Index="B">Bazoth</Subsector>
@@ -5051,7 +5053,7 @@
     <X>96</X>
     <Y>97</Y>
     <Name>Jathig</Name>
-    <DataFile>Rim Route/Jathig.sec</DataFile>
+    <DataFile>Rim Expedition/Jathig.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atha</Subsector>
       <Subsector Index="B">Bathi</Subsector>
@@ -5075,7 +5077,7 @@
     <X>97</X>
     <Y>97</Y>
     <Name>Kim</Name>
-    <DataFile>Rim Route/Kim.sec</DataFile>
+    <DataFile>Rim Expedition/Kim.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aki</Subsector>
       <Subsector Index="B">Bekim</Subsector>
@@ -5099,7 +5101,7 @@
     <X>97</X>
     <Y>98</Y>
     <Name>Lieer</Name>
-    <DataFile>Rim Route/Lieer.sec</DataFile>
+    <DataFile>Rim Expedition/Lieer.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Alinn</Subsector>
       <Subsector Index="B">Bieew</Subsector>
@@ -5123,7 +5125,7 @@
     <X>98</X>
     <Y>98</Y>
     <Name>Zuboth</Name>
-    <DataFile>Rim Route/Zuboth.sec</DataFile>
+    <DataFile>Rim Expedition/Zuboth.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acoth</Subsector>
       <Subsector Index="B">Buhu</Subsector>
@@ -5147,7 +5149,7 @@
     <X>98</X>
     <Y>99</Y>
     <Name>Xokokok</Name>
-    <DataFile>Rim Route/Xokokok.sec</DataFile>
+    <DataFile>Rim Expedition/Xokokok.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Axo</Subsector>
       <Subsector Index="B">Bahax</Subsector>
@@ -5171,7 +5173,7 @@
     <X>99</X>
     <Y>99</Y>
     <Name>Ciosh</Name>
-    <DataFile>Rim Route/Ciosh.sec</DataFile>
+    <DataFile>Rim Expedition/Ciosh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aion</Subsector>
       <Subsector Index="B">Bicosh</Subsector>
@@ -5195,7 +5197,7 @@
     <X>99</X>
     <Y>100</Y>
     <Name>Vir</Name>
-    <DataFile>Rim Route/Vir.sec</DataFile>
+    <DataFile>Rim Expedition/Vir.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ave</Subsector>
       <Subsector Index="B">Bavac</Subsector>
@@ -5219,7 +5221,7 @@
     <X>100</X>
     <Y>100</Y>
     <Name>Bukkugo</Name>
-    <DataFile>Rim Route/Bukkugo.sec</DataFile>
+    <DataFile>Rim Expedition/Bukkugo.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akku</Subsector>
       <Subsector Index="B">Banku</Subsector>
@@ -5243,7 +5245,7 @@
     <X>100</X>
     <Y>101</Y>
     <Name>Nuggin</Name>
-    <DataFile>Rim Route/Nuggin.sec</DataFile>
+    <DataFile>Rim Expedition/Nuggin.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aggin</Subsector>
       <Subsector Index="B">Bunnin</Subsector>
@@ -5267,7 +5269,7 @@
     <X>101</X>
     <Y>101</Y>
     <Name>Muankuur</Name>
-    <DataFile>Rim Route/Muankuur.sec</DataFile>
+    <DataFile>Rim Expedition/Muankuur.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azkuur</Subsector>
       <Subsector Index="B">Buan</Subsector>
@@ -5291,7 +5293,7 @@
     <X>101</X>
     <Y>102</Y>
     <Name>Anmol</Name>
-    <DataFile>Rim Route/Anmol.sec</DataFile>
+    <DataFile>Rim Expedition/Anmol.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Anam</Subsector>
       <Subsector Index="B">Bamol</Subsector>
@@ -5315,7 +5317,7 @@
     <X>102</X>
     <Y>102</Y>
     <Name>Riggoff</Name>
-    <DataFile>Rim Route/Riggoff.sec</DataFile>
+    <DataFile>Rim Expedition/Riggoff.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Argoff</Subsector>
       <Subsector Index="B">Bafoff</Subsector>
@@ -5339,7 +5341,7 @@
     <X>102</X>
     <Y>103</Y>
     <Name>Gekara</Name>
-    <DataFile>Rim Route/Gekara.sec</DataFile>
+    <DataFile>Rim Expedition/Gekara.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Akara</Subsector>
       <Subsector Index="B">Bican</Subsector>
@@ -5363,7 +5365,7 @@
     <X>103</X>
     <Y>103</Y>
     <Name>Kartabba</Name>
-    <DataFile>Rim Route/Kartabba.sec</DataFile>
+    <DataFile>Rim Expedition/Kartabba.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arta</Subsector>
       <Subsector Index="B">Barabba</Subsector>
@@ -5387,7 +5389,7 @@
     <X>103</X>
     <Y>104</Y>
     <Name>Nanceesh</Name>
-    <DataFile>Rim Route/Nanceesh.sec</DataFile>
+    <DataFile>Rim Expedition/Nanceesh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aceeh</Subsector>
       <Subsector Index="B">Bancee</Subsector>
@@ -5411,7 +5413,7 @@
     <X>104</X>
     <Y>104</Y>
     <Name>Botreesh</Name>
-    <DataFile>Rim Route/Botreesh.sec</DataFile>
+    <DataFile>Rim Expedition/Botreesh.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atreesh</Subsector>
       <Subsector Index="B">Botraz</Subsector>
@@ -5435,7 +5437,7 @@
     <X>104</X>
     <Y>105</Y>
     <Name>Urok</Name>
-    <DataFile>Rim Route/Urok.sec</DataFile>
+    <DataFile>Rim Expedition/Urok.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Arok</Subsector>
       <Subsector Index="B">Borok</Subsector>
@@ -5459,7 +5461,7 @@
     <X>105</X>
     <Y>105</Y>
     <Name>Dargoan</Name>
-    <DataFile>Rim Route/Dargoan.sec</DataFile>
+    <DataFile>Rim Expedition/Dargoan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Argo</Subsector>
       <Subsector Index="B">Bassoran</Subsector>
@@ -5483,7 +5485,7 @@
     <X>105</X>
     <Y>106</Y>
     <Name>Antike</Name>
-    <DataFile>Rim Route/Antike.sec</DataFile>
+    <DataFile>Rim Expedition/Antike.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Antic</Subsector>
       <Subsector Index="B">Banthur</Subsector>
@@ -5507,7 +5509,7 @@
     <X>106</X>
     <Y>106</Y>
     <Name>Condorra</Name>
-    <DataFile>Rim Route/Condorra.sec</DataFile>
+    <DataFile>Rim Expedition/Condorra.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Acomma</Subsector>
       <Subsector Index="B">Bonduur</Subsector>
@@ -5531,7 +5533,7 @@
     <X>106</X>
     <Y>107</Y>
     <Name>Hadar</Name>
-    <DataFile>Rim Route/Hadar.sec</DataFile>
+    <DataFile>Rim Expedition/Hadar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azar</Subsector>
       <Subsector Index="B">Bungar</Subsector>
@@ -5555,7 +5557,7 @@
     <X>107</X>
     <Y>107</Y>
     <Name>Massassi</Name>
-    <DataFile>Rim Route/Massassi.sec</DataFile>
+    <DataFile>Rim Expedition/Massassi.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Azzazzi</Subsector>
       <Subsector Index="B">Baffamm</Subsector>
@@ -5579,7 +5581,7 @@
     <X>107</X>
     <Y>108</Y>
     <Name>Briggia</Name>
-    <DataFile>Rim Route/Briggia.sec</DataFile>
+    <DataFile>Rim Expedition/Briggia.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abrigg</Subsector>
       <Subsector Index="B">Brawig</Subsector>
@@ -5603,7 +5605,7 @@
     <X>108</X>
     <Y>108</Y>
     <Name>Gamorr</Name>
-    <DataFile>Rim Route/Gamorr.sec</DataFile>
+    <DataFile>Rim Expedition/Gamorr.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aogomm</Subsector>
       <Subsector Index="B">Beagor</Subsector>
@@ -5627,7 +5629,7 @@
     <X>108</X>
     <Y>109</Y>
     <Name>Altar</Name>
-    <DataFile>Rim Route/Altar.sec</DataFile>
+    <DataFile>Rim Expedition/Altar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Abmal</Subsector>
       <Subsector Index="B">Butrill</Subsector>
@@ -5651,7 +5653,7 @@
     <X>109</X>
     <Y>109</Y>
     <Name>Ehapah</Name>
-    <DataFile>Rim Route/Ehapah.sec</DataFile>
+    <DataFile>Rim Expedition/Ehapah.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahahaz</Subsector>
       <Subsector Index="B">Boholo</Subsector>
@@ -5675,7 +5677,7 @@
     <X>109</X>
     <Y>110</Y>
     <Name>Lahara</Name>
-    <DataFile>Rim Route/Lahara.sec</DataFile>
+    <DataFile>Rim Expedition/Lahara.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ahaar</Subsector>
       <Subsector Index="B">Bavva</Subsector>
@@ -5699,7 +5701,7 @@
     <X>110</X>
     <Y>110</Y>
     <Name>Bimmisaari</Name>
-    <DataFile>Rim Route/Bimmisaari.sec</DataFile>
+    <DataFile>Rim Expedition/Bimmisaari.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ammis</Subsector>
       <Subsector Index="B">Bimmi</Subsector>
@@ -5723,7 +5725,7 @@
     <X>110</X>
     <Y>111</Y>
     <Name>Ryloth</Name>
-    <DataFile>Rim Route/Ryloth.sec</DataFile>
+    <DataFile>Rim Expedition/Ryloth.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aloth</Subsector>
       <Subsector Index="B">Byl</Subsector>
@@ -5747,7 +5749,7 @@
     <X>111</X>
     <Y>111</Y>
     <Name>Ghorman</Name>
-    <DataFile>Rim Route/Ghorman.sec</DataFile>
+    <DataFile>Rim Expedition/Ghorman.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aghor</Subsector>
       <Subsector Index="B">Borrm</Subsector>
@@ -5771,7 +5773,7 @@
     <X>111</X>
     <Y>112</Y>
     <Name>Ottega</Name>
-    <DataFile>Rim Route/Ottega.sec</DataFile>
+    <DataFile>Rim Expedition/Ottega.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Attafa</Subsector>
       <Subsector Index="B">Botaav</Subsector>
@@ -5795,7 +5797,7 @@
     <X>112</X>
     <Y>112</Y>
     <Name>Ithor</Name>
-    <DataFile>Rim Route/Ithor.sec</DataFile>
+    <DataFile>Rim Expedition/Ithor.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Afor</Subsector>
       <Subsector Index="B">Bethoug</Subsector>
@@ -5819,7 +5821,7 @@
     <X>112</X>
     <Y>113</Y>
     <Name>Delalt</Name>
-    <DataFile>Rim Route/Delalt.sec</DataFile>
+    <DataFile>Rim Expedition/Delalt.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adelt</Subsector>
       <Subsector Index="B">Bilall</Subsector>
@@ -5843,7 +5845,7 @@
     <X>113</X>
     <Y>113</Y>
     <Name>Geedon</Name>
-    <DataFile>Rim Route/Geedon.sec</DataFile>
+    <DataFile>Rim Expedition/Geedon.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aadon</Subsector>
       <Subsector Index="B">Bedrass</Subsector>
@@ -5867,7 +5869,7 @@
     <X>113</X>
     <Y>114</Y>
     <Name>Agamar</Name>
-    <DataFile>Rim Route/Agamar.sec</DataFile>
+    <DataFile>Rim Expedition/Agamar.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agaas</Subsector>
       <Subsector Index="B">Bugaour</Subsector>
@@ -5891,7 +5893,7 @@
     <X>114</X>
     <Y>114</Y>
     <Name>Chandrila</Name>
-    <DataFile>Rim Route/Chandrila.sec</DataFile>
+    <DataFile>Rim Expedition/Chandrila.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Ashand</Subsector>
       <Subsector Index="B">Bedril</Subsector>
@@ -5915,7 +5917,7 @@
     <X>114</X>
     <Y>115</Y>
     <Name>Mechedran</Name>
-    <DataFile>Rim Route/Mechedran.sec</DataFile>
+    <DataFile>Rim Expedition/Mechedran.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Amesha</Subsector>
       <Subsector Index="B">Beshadr</Subsector>
@@ -5939,7 +5941,7 @@
     <X>115</X>
     <Y>115</Y>
     <Name>Danassa</Name>
-    <DataFile>Rim Route/Danassa.sec</DataFile>
+    <DataFile>Rim Expedition/Danassa.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adanass</Subsector>
       <Subsector Index="B">Blanad</Subsector>
@@ -5963,7 +5965,7 @@
     <X>115</X>
     <Y>116</Y>
     <Name>Gurhmaron</Name>
-    <DataFile>Rim Route/Gurhmaron.sec</DataFile>
+    <DataFile>Rim Expedition/Gurhmaron.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Agurhm</Subsector>
       <Subsector Index="B">Burhmar</Subsector>
@@ -5987,7 +5989,7 @@
     <X>116</X>
     <Y>116</Y>
     <Name>Luisan</Name>
-    <DataFile>Rim Route/Luisan.sec</DataFile>
+    <DataFile>Rim Expedition/Luisan.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Aluis</Subsector>
       <Subsector Index="B">Bluisan</Subsector>
@@ -6011,7 +6013,7 @@
     <X>116</X>
     <Y>117</Y>
     <Name>Tullianne</Name>
-    <DataFile>Rim Route/Tullianne.sec</DataFile>
+    <DataFile>Rim Expedition/Tullianne.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Zieen</Subsector>
       <Subsector Index="B">Baabahh</Subsector>
@@ -6035,7 +6037,7 @@
     <X>117</X>
     <Y>117</Y>
     <Name>Endaba</Name>
-    <DataFile>Rim Route/Endaba.sec</DataFile>
+    <DataFile>Rim Expedition/Endaba.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Adronis</Subsector>
       <Subsector Index="B">Burak</Subsector>
@@ -6059,7 +6061,7 @@
     <X>117</X>
     <Y>118</Y>
     <Name>Kashyyyk</Name>
-    <DataFile>Rim Route/Kashyyyk.sec</DataFile>
+    <DataFile>Rim Expedition/Kashyyyk.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Auuluu</Subsector>
       <Subsector Index="B">Beelee</Subsector>
@@ -6083,7 +6085,7 @@
     <X>118</X>
     <Y>118</Y>
     <Name>Atrivis</Name>
-    <DataFile>Rim Route/Atrivis.sec</DataFile>
+    <DataFile>Rim Expedition/Atrivis.sec</DataFile>
     <Subsectors>
       <Subsector Index="A">Atgrib</Subsector>
       <Subsector Index="B">Atyern</Subsector>
