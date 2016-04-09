@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <title>Border Generation</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="../site.css?update=2015-07-19">
@@ -78,7 +78,11 @@ var ALLEGIANCE_SETS = [
   ['CA', 'CAEM', 'CAin', 'CAKT'], // Comsentient Alliance (Beyo/Vang)
 
   //Julian Protectorate
-  ['JuPr', 'JuRu', 'JuHl']
+  ['JuPr', 'JuRu', 'JuHl'],
+
+  // Captive
+  ['Le', 'L1'],
+  ['Mp', 'Mg']
 ];
 
 
@@ -137,10 +141,21 @@ function updateWalks(map) {
         path = path.map(function(hex) { return hexLabel(hex[0], hex[1]); });
         path.forEach(function(label) { visited[label] = true; });
 
-        borders.push({
-          allegiance: alleg,
-          path: path
-        });
+        var skip = false;
+        if (path.length > 1) {
+          var l1 = path[path.length - 2], l2 = path[path.length - 1];
+          var x1 = Math.floor(l1 / 100), x2 = Math.floor(l2 / 100);
+          if (x1 < x2)
+            skip = true;
+
+        }
+
+        if (!skip) {
+          borders.push({
+            allegiance: alleg,
+            path: path
+          });
+        }
       }
       last_alleg = alleg;
     }
