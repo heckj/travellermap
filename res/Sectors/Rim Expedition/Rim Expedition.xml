@@ -25197,4 +25197,126 @@
       <Subsector Index="P">Atrava</Subsector>
     </Subsectors>
   </Sector>
+  <Sector Author="Bari Z. Stafford, Sr." Source="General Turokan's Expedition to the Rim">
+    <X>118</X>
+    <Y>119</Y>
+    <Name>Freedom</Name>
+    <DataFile>Rim Expedition/Freedom.sec</DataFile>
+    <Subsectors>
+    </Subsectors>
+    <Routes>
+      <Route Start="0628" End="0638" Type="6" />
+      <Route Start="0917" End="1016" Type="11" />
+      <Route Start="0920" End="1121" Type="11" />
+      <Route Start="0920" End="1218" Type="11" />
+      <Route Start="0924" End="1122" Type="11" />
+      <Route Start="0924" End="1126" Type="11" />
+      <Route Start="0928" End="1226" Type="11" />
+      <Route Start="1013" End="1116" Type="11" />
+      <Route Start="1016" End="1117" Type="11" />
+      <Route Start="1116" End="1117" Type="11" />
+      <Route Start="1116" End="1414" Type="11" />
+      <Route Start="1117" End="1218" Type="11" />
+      <Route Start="1121" End="1122" Type="11" />
+      <Route Start="1121" End="1421" Type="11" />
+      <Route Start="1122" End="1423" Type="11" />
+      <Route Start="1126" End="1226" Type="11" />
+      <Route Start="1218" End="1419" Type="11" />
+      <Route Start="1226" End="1426" Type="11" />
+      <Route Start="1322" End="1421" Type="11" />
+      <Route Start="1327" End="1426" Type="11" />
+      <Route Start="1404" End="1506" Type="11" />
+      <Route Start="1404" End="1705" Type="11" />
+      <Route Start="1414" End="1512" Type="11" />
+      <Route Start="1414" End="1516" Type="11" />
+      <Route Start="1418" End="1419" Type="11" />
+      <Route Start="1418" End="1516" Type="11" />
+      <Route Start="1418" End="1518" Type="11" />
+      <Route Start="1419" End="1420" Type="11" />
+      <Route Start="1419" End="1720" Type="11" />
+      <Route Start="1420" End="1421" Type="11" />
+      <Route Start="1421" End="1523" Type="11" />
+      <Route Start="1423" End="1424" Type="11" />
+      <Route Start="1424" End="1526" Type="11" />
+      <Route Start="1426" End="1526" Type="11" />
+      <Route Start="1426" End="1726" Type="11" />
+      <Route Start="1506" End="1608" Type="11" />
+      <Route Start="1512" End="1612" Type="11" />
+      <Route Start="1516" End="1615" Type="11" />
+      <Route Start="1516" End="1716" Type="11" />
+      <Route Start="1523" End="1623" Type="11" />
+      <Route Start="1524" End="1525" Type="11" />
+      <Route Start="1524" End="1624" Type="11" />
+      <Route Start="1525" End="1526" Type="11" />
+      <Route Start="1608" End="1708" Type="11" />
+      <Route Start="1623" End="1724" Type="11" />
+      <Route Start="1624" End="1724" Type="11" />
+      <Route Start="1705" End="1806" Type="11" />
+      <Route Start="1708" End="1806" Type="11" />
+      <Route Start="1716" End="2015" Type="11" />
+      <Route Start="1720" End="1721" Type="11" />
+      <Route Start="1720" End="1819" Type="11" />
+      <Route Start="1721" End="1821" Type="11" />
+      <Route Start="1723" End="1724" Type="11" />
+      <Route Start="1723" End="1822" Type="11" />
+      <Route Start="1724" End="1726" Type="11" />
+      <Route Start="1724" End="1924" Type="11" />
+      <Route Start="1726" End="1727" Type="11" />
+      <Route Start="1726" End="1928" Type="11" />
+      <Route Start="1806" End="2107" Type="11" />
+      <Route Start="1819" End="2019" Type="11" />
+      <Route Start="1821" End="1822" Type="11" />
+      <Route Start="1903" End="2807" Type="6" />
+      <Route Start="1924" End="1925" Type="11" />
+      <Route Start="1924" End="2023" Type="11" />
+      <Route Start="1925" End="1926" Type="11" />
+      <Route Start="1926" End="2026" Type="11" />
+      <Route Start="1928" End="2229" Type="11" />
+      <Route Start="2010" End="2108" Type="11" />
+      <Route Start="2010" End="2212" Type="11" />
+      <Route Start="2015" End="2114" Type="11" />
+      <Route Start="2015" End="2115" Type="11" />
+      <Route Start="2019" End="2119" Type="11" />
+      <Route Start="2022" End="2023" Type="11" />
+      <Route Start="2023" End="2221" Type="11" />
+      <Route Start="2026" End="2226" Type="11" />
+      <Route Start="2107" End="2108" Type="11" />
+      <Route Start="2114" End="2115" Type="11" />
+      <Route Start="2114" End="2212" Type="11" />
+      <Route Start="2114" End="2215" Type="11" />
+      <Route Start="2114" End="2216" Type="11" />
+      <Route Start="2114" End="2415" Type="11" />
+      <Route Start="2115" End="2215" Type="11" />
+      <Route Start="2119" End="2216" Type="11" />
+      <Route Start="2119" End="2221" Type="11" />
+      <Route Start="2119" End="2320" Type="11" />
+      <Route Start="2221" End="2322" Type="11" />
+      <Route Start="2226" End="2229" Type="11" />
+      <Route Start="2226" End="2326" Type="11" />
+      <Route Start="2320" End="2420" Type="11" />
+      <Route Start="2322" End="2421" Type="11" />
+      <Route Start="2322" End="2424" Type="11" />
+      <Route Start="2326" End="2425" Type="11" />
+      <Route Start="2415" End="2617" Type="11" />
+      <Route Start="2421" End="2621" Type="11" />
+      <Route Start="2424" End="2425" Type="11" />
+      <Route Start="2424" End="2625" Type="11" />
+      <Route Start="2617" End="2718" Type="11" />
+      <Route Start="2718" End="2816" Type="11" />
+      <Route Start="2816" End="3014" Type="11" />
+      <Route Start="2913" End="3014" Type="11" />
+      <Route Start="3014" End="3215" Type="11" />
+    </Routes>
+    <Allegiances>
+      <Allegiance Code="A1">Aslan Aata Clan</Allegiance>
+      <Allegiance Code="Ca">Cardacian</Allegiance>
+      <Allegiance Code="Fe">Feringi Federation</Allegiance>
+      <Allegiance Code="Kl">Klingon Empire</Allegiance>
+      <Allegiance Code="Ma">Margaret Imperial</Allegiance>
+      <Allegiance Code="Ro">Romulun Empire</Allegiance>
+      <Allegiance Code="Sy">Synthetic's</Allegiance>
+      <Allegiance Code="Vr">Vargr</Allegiance>
+      <Allegiance Code="Wi">Wild</Allegiance>
+    </Allegiances>
+  </Sector>
 </Sectors>
